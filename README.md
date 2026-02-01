@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Matias Acuna 👋
 
-<!--
-**Matias-Acuna/Matias-Acuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatik student (Applied Computer Science) based in Mainz, Germany.  
+Focused on **Android development**, **software engineering**, and **web development**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Kotlin, Java
+- Android Studio
+- Git & GitHub
+- Basic SQL
+- HTML, CSS, JavaScript (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### 📱 Android Study Group App
+Academic Android application for study group management.
+- Built with Kotlin
+- Focus on clean structure and core Android concepts
+
+## 🎯 Goals
+- Build practical Android projects
+- Apply for a **Pflichtpraktikum (Internship) starting March 2026** in Germany
+
+## 📫 Contact
+- 📍 Mainz, Germany  
+- ✉️ matiasA2809@outlook.com
