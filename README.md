@@ -10,7 +10,7 @@ Currently seeking a **Pflichtpraktikum (Praxissemester)** starting **March 2026 
 ## 🛠 Tech Stack
 
 **Languages**
-- Java · JavaScript · Python · TypeScript (basic)
+- Java · JavaScript · Python 
 
 **Mobile & Frontend**
 - Android (Java, Android Studio)
